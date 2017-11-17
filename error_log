@@ -1,0 +1,101 @@
+[07-Nov-2017 05:54:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/design.php on line 91
+[07-Nov-2017 05:54:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/design.php on line 91
+[07-Nov-2017 05:54:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/design.php on line 91
+[07-Nov-2017 05:55:13 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/fagun/public_html/assignment/design.php on line 79
+[07-Nov-2017 06:25:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, array given in /home/fagun/public_html/assignment/index.php on line 23
+[07-Nov-2017 06:27:21 UTC] PHP Fatal error:  Call to a member function rowCount() on array in /home/fagun/public_html/assignment/index.php on line 23
+[07-Nov-2017 06:27:38 UTC] PHP Fatal error:  Call to a member function rowCount() on array in /home/fagun/public_html/assignment/index.php on line 23
+[07-Nov-2017 06:38:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 87
+[07-Nov-2017 06:38:54 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 93
+[07-Nov-2017 06:39:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 87
+[07-Nov-2017 06:39:48 UTC] PHP Fatal error:  Cannot use object of type Book as array in /home/fagun/public_html/assignment/index.php on line 93
+[07-Nov-2017 06:41:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 87
+[07-Nov-2017 06:44:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 87
+[07-Nov-2017 07:33:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 07:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 07:34:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 07:38:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 105
+[07-Nov-2017 07:39:21 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 111
+[07-Nov-2017 07:39:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 105
+[07-Nov-2017 07:39:46 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 111
+[07-Nov-2017 07:40:25 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 111
+[07-Nov-2017 07:41:14 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 111
+[07-Nov-2017 07:41:44 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 111
+[07-Nov-2017 07:43:08 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 110
+[07-Nov-2017 07:43:56 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 110
+[07-Nov-2017 07:46:11 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 110
+[07-Nov-2017 07:46:58 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 110
+[07-Nov-2017 07:47:25 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 110
+[07-Nov-2017 07:47:57 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/index.php on line 113
+[07-Nov-2017 07:48:13 UTC] PHP Catchable fatal error:  Object of class Author could not be converted to string in /home/fagun/public_html/assignment/index.php on line 113
+[07-Nov-2017 07:48:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 08:00:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/details.php on line 56
+[07-Nov-2017 08:00:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/details.php on line 56
+[07-Nov-2017 08:00:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/details.php on line 56
+[07-Nov-2017 08:01:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/details.php on line 56
+[07-Nov-2017 08:01:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 08:01:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fagun/public_html/assignment/details.php on line 56
+[07-Nov-2017 08:02:10 UTC] PHP Catchable fatal error:  Object of class Book could not be converted to string in /home/fagun/public_html/assignment/details.php on line 99
+[07-Nov-2017 08:59:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 09:02:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 09:06:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 14:54:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 14:54:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 14:54:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 14:54:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[07-Nov-2017 22:47:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 04:37:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 04:38:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 07:27:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 07:28:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 16:00:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 20:14:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 20:15:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 20:16:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 20:18:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 20:19:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 20:20:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[09-Nov-2017 20:24:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[11-Nov-2017 10:36:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[11-Nov-2017 10:36:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 104
+[11-Nov-2017 10:43:20 UTC] PHP Fatal error:  Call to a member function fetchAll() on null in /home/fagun/public_html/assignment/index.php on line 22
+[11-Nov-2017 10:43:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 117
+[11-Nov-2017 10:43:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 117
+[11-Nov-2017 10:56:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 117
+[11-Nov-2017 10:57:38 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 10:57:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 10:57:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 10:57:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 10:57:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 10:59:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 136
+[11-Nov-2017 10:59:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 136
+[11-Nov-2017 10:59:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 136
+[11-Nov-2017 10:59:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 136
+[11-Nov-2017 11:00:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 103
+[11-Nov-2017 11:02:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 11:02:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 11:02:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 11:02:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 11:02:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/fagun/public_html/assignment/index.php on line 120
+[11-Nov-2017 11:03:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 137
+[11-Nov-2017 11:03:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 137
+[11-Nov-2017 11:03:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 137
+[11-Nov-2017 11:03:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fagun/public_html/assignment/index.php on line 137
+[11-Nov-2017 11:04:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 103
+[11-Nov-2017 11:16:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 130
+[11-Nov-2017 11:17:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 131
+[11-Nov-2017 11:21:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 137
+[11-Nov-2017 12:20:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[12-Nov-2017 20:41:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[13-Nov-2017 17:53:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[13-Nov-2017 17:53:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[13-Nov-2017 17:53:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[13-Nov-2017 17:54:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[13-Nov-2017 17:59:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[13-Nov-2017 20:09:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[14-Nov-2017 07:32:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[14-Nov-2017 07:37:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[14-Nov-2017 07:51:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[14-Nov-2017 08:09:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[16-Nov-2017 18:43:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
+[16-Nov-2017 18:43:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fagun/public_html/assignment/index.php on line 136
